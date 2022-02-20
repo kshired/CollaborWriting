@@ -1,4 +1,4 @@
-package com.kshired.collaborwriting.Enum
+package com.kshired.collaborwriting.enum
 
 enum class Auth {
     ADMIN,

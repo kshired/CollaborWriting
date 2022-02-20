@@ -1,6 +1,5 @@
 package com.kshired.collaborwriting.filter
 
-import com.kshired.collaborwriting.utils.JwtUtil
 import org.springframework.web.filter.GenericFilterBean
 import javax.servlet.FilterChain
 import javax.servlet.ServletRequest

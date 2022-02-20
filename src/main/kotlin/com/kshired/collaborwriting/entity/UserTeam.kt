@@ -1,8 +1,7 @@
 package com.kshired.collaborwriting.entity
 
-import com.kshired.collaborwriting.Enum.Auth
 import com.kshired.collaborwriting.entity.id.UserTeamId
-import java.util.*
+import com.kshired.collaborwriting.enum.Auth
 import javax.persistence.*
 
 @Entity

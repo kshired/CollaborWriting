@@ -6,7 +6,6 @@ import io.jsonwebtoken.security.Keys
 import java.nio.charset.StandardCharsets
 import java.security.Key
 import java.util.*
-import javax.crypto.spec.SecretKeySpec
 
 class JwtUtil {
     companion object {
