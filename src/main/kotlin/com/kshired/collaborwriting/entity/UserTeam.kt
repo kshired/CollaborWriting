@@ -6,7 +6,7 @@ import java.util.*
 import javax.persistence.*
 
 @Entity
-@Table(name = "user_team_auth")
+@Table(name = "user_team")
 @IdClass(UserTeamId::class)
 data class UserTeam(
     @Id @Column(name = "user_id") var userId: String,
